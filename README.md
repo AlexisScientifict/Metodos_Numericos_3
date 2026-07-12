@@ -10,7 +10,7 @@ A continuación se detallan las entregas de los laboratorios del curso, incluyen
 | :--- | :--- | :---: | :---: |
 | **Lab 1 y 2** | Implementación y análisis de convergencia de métodos iterativos para sistemas lineales. | [💻 Ver Notebook](./Notebooks/Lab1_2.ipynb) | [📄 Ver Reporte](./Reportes/Lab1_2.pdf) |
 | **Lab 3 4 y 5** | Ecuaciones en Derivadas Parciales (EDPs) Diferencias finitas y algoritmo de Thomas. | [💻 Ver Notebook](./Notebooks/Lab3_4_5.ipynb) | [📄 Ver Reporte](./Reportes/Lab3_4_5.pdf) |
-| **Lab 6** | [Escribe aquí el tema del Laboratorio 6] | [💻 Ver Notebook](./Notebooks/Lab6.ipynb) | [📄 Ver Reporte](./Reportes/Lab6.pdf) |
+| **Lab 6** | Ecuaciones Diferenciales Parciales Elípticas | [💻 Ver Notebook](./Notebooks/Lab6.ipynb) | [📄 Ver Reporte](./Reportes/Lab6.pdf) |
 
 
 ## 🛠️ Tecnologías Utilizadas
